@@ -2,7 +2,7 @@
 
 > 知药分享功能分布在知药系统多个模块中，接下来根据分享功能分布位置按模块逐个整理分享页面及相应报文。分享功能具体分布如图所示：
 
-![image](https://note.youdao.com/yws/public/resource/cb0875743c4bbf95bd587304de245c8a/xmlnote/WEBRESOURCE91892809f6184fc33279243953e9fbe1/5154)
+![image](https://raw.githubusercontent.com/kimwong0919/docs/master/docs/resources/imgs/%E7%9F%A5%E8%8D%AF%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 ### 分享根地址
 > 知药分享涉及到多个分子系统的分享，分享页面地址汇总如下
 
