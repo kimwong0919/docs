@@ -1,4 +1,4 @@
-<!-- _coverpage.md -->
+_coverpage.md
 
 ![logo](_media/icon.svg)
 
