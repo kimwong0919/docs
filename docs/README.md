@@ -18,28 +18,3 @@ Useful plugin API
 Emoji support
 Compatible with IE10+
 Support SSR (example)
-
-# Vue guide
-
-`v-for` usage.
-
-```html
-<ul>
-  <li v-for="i in 10">{{ i }}</li>
-</ul>
-```
-
-<ul>
-  <li v-for="i in 10">{{ i }}</li>
-</ul>
-
-# Vue demo
-
-<div>hello {{ msg }}</div>
-
-<script>
-  new Vue({
-    el: '#main',
-    data: { msg: 'Vue' }
-  })
-</script>
