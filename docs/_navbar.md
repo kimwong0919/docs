@@ -18,7 +18,7 @@
   * [Cover page](cover.md)
 
 * Configuration
-  * [Configuration](configuration.md)
+  * [Configuration](config.md)
   * [Themes](themes.md)
   * [Using plugins](plugins.md)
   * [Markdown configuration](markdown.md)
