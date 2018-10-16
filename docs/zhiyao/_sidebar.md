@@ -1,3 +1,5 @@
 * [知药-changelog](/zhiyao/zhiyao-changelog.md)
 * [知药-外部系统公用](/zhiyao/zhiyao-public.md)
 * [知药分享](/zhiyao/zhiyao-share.md)
+* [知药系统架构](/zhiyao/zhiyao-construct.md)
+* [知药子系统交互](/zhiyao/zhiyao-interact.md)
